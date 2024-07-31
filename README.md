@@ -1,2 +1,2 @@
 
-Uma lista das funções mais utilizadas da biblioteca pandas para iniciantes
+Códigos com a biblioteca pandas
